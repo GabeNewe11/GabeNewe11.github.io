@@ -543,7 +543,7 @@ li.list_desc h4 a:hover{
 	background: url(../images/img-sprite.png) no-repeat -254px 1px;
 }
 .content-bottom{
-	width:50%;
+	width:100%;
 	background: url(../images/RANKS.jpg)no-repeat center top;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -553,6 +553,7 @@ li.list_desc h4 a:hover{
 	background-size: 50% 50%;
 	height:100%;
 	padding:15% 0;
+	color: black !important;
 }
 .content_bottom-text h3{
 	color: #FFF;
