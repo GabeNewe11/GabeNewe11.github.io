@@ -550,7 +550,7 @@ li.list_desc h4 a:hover{
 	-o-background-size: cover;
 	background-size: cover;
 	background-position: center;
-	background-size: 100% 100%;
+	background-size: 50% 50%;
 	height:100%;
 	padding:15% 0;
 }
