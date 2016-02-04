@@ -543,7 +543,7 @@ li.list_desc h4 a:hover{
 	background: url(../images/img-sprite.png) no-repeat -254px 1px;
 }
 .content-bottom{
-	width:100%;
+	width:50%;
 	background: url(../images/RANKS.jpg)no-repeat center top;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
