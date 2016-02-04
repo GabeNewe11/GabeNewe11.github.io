@@ -4,13 +4,9 @@ h1, h2, h3 {margin-top: 0;}
 ul, ol {margin: 0;}
 p {margin: 0;}
 html, body{
-	font-family: 'Impact', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	background:#fff;
 	font-size: 100%;
-	text-align: center;
-	background-color: gray;
-	color: blue;
-
 }
 body a{
  	transition: 0.5s all;
