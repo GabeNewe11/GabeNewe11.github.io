@@ -1,0 +1,174 @@
+body {
+
+	background-image: url("https://i.ytimg.com/vi/FW08SiC1QGw/maxresdefault.jpg");
+    background-size: cover;
+    background-position: center center;
+	font-family: comicsansms;
+
+}
+
+/*Stuff below governs the start screen*/
+
+.titleContent {
+	margin: 10% auto;
+    text-align: center;
+}
+
+.splashTitle {
+	color: white;
+    font-size: 8em;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 5px rgba(27, 25, 25, 0.74);
+    font-family: comicsansms;
+}
+
+.button {
+	border: 5px solid #383838;
+    color: #383838;
+    padding: 20px 50px;
+    font-size: 5em;
+    text-decoration: none;
+    background-color: #abc;
+    box-shadow: 15px 15px 80px #555;
+}
+  a.button:hover {
+    background-color: #383838;
+    color: #abc;
+  }
+
+
+
+/*Stuff below governs the Explore screen*/
+
+#exploreBody {
+	background-image: url("http://orig15.deviantart.net/4ac8/f/2013/059/f/6/sonic_background_16_by_dudusonic-d5whnf6.png");
+	background-position: bottom center;
+    width: 1000px;
+    height: 2000px;
+    background-repeat:no-repeat;
+    margin-bottom: 300px;
+    overflow: auto;
+}
+
+.go {
+	position: absolute;
+	color: white;
+    padding: 20px 10px;
+    color: white;
+    font-size: 6em;
+    box-shadow: 5px 5px 20px #84999A;
+
+}
+
+#sanik {
+    position: absolute;
+    left: 100px;
+    width: 300px;
+    height: 300px;
+    background-image: url("img/sanik.png");
+    background-size: 100%;
+}
+
+#coin{
+    background-image: url("img/apkpure.png");
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 2500px;
+    top: 40%;
+    display: block;
+    background-size: 100%;
+}
+
+#coin2{
+    background-image: url("img/apkpure.png");
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 2800px;
+    top: 70%;
+    display: block;
+    background-size: 100%;
+}
+
+#coin3{
+    background-image: url("img/apkpure.png");
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 1000px;
+    top: 30%;
+    display: block;
+    background-size: 100%;
+}
+#coin4{
+    background-image: url("img/apkpure.png");
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 3700px;
+    top: 10%;
+    display: block;
+    background-size: 100%;
+}
+
+#resultBox{
+    text-align: center;
+    position: absolute;
+    margin-left: 2500px;
+}
+
+#goBack {
+    bottom: 25%;
+    left: 45%;
+    display: none;
+}
+
+
+.hudBase {
+    background-color: rgba(0,0,0,0.7);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    color: white;
+    padding: 10px 30px;
+
+}
+
+.hudInv {
+    width: 50%;
+    display: inline-block;
+    margin-left: 10%;
+    color: #bbb;
+}
+
+.hudObj {
+    width: 35%;
+    display: inline-block;
+    padding: 10px;
+}
+
+#invTitle {
+display: inline;
+
+}
+
+.invSlot1 {
+	display: inline;
+	width: 80px;
+	height: 80px;
+	border: 5px dashed #bbb;
+	padding: 10px 10px;
+    margin: 20px;
+    font-size:0.6em;
+}
+#exploreCopy {
+    background-image: url("http://orig15.deviantart.net/4ac8/f/2013/059/f/6/sonic_background_16_by_dudusonic-d5whnf6.png");
+    background-position: bottom center;
+    width: 1000px;
+    height: 2000px;
+    background-repeat:no-repeat;
+    margin-bottom: 300px;
+    overflow: auto;
+}
